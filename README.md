@@ -1,6 +1,6 @@
 # VBA_HW
 
-# Green Stock Analysis – Refactored VBA Code					                                                                                                      Christine Mitchell
+# Green Stock Analysis – Refactored VBA Code					                                                                                                   
 ## Overview of Project
 Our client, Steve, is interested in analyzing green energy stocks to help his parents invest in a company that not only they can believe in to better the future, but to also make a return on their investment. Steve’s parents were interested in the green energy stock, DQ. Upon analysis, we found that it did not perform well in 2018. So, Steve asked for our help to evaluate eleven additional stocks. He appreciated the workbook we created and how with the click of a button he could quickly analyze the twelve stocks he selected. But now, he would like the potential to expand the analysis to all stocks over the last few years.
 ### Purpose
